@@ -1,0 +1,7 @@
+bin/
+obj/
+publish/
+dist/
+*.user
+.vs/
+tools/icon-preview.png
